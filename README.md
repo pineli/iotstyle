@@ -100,6 +100,7 @@ Este é apenas o inicio, existe muita coisa a se fazer. Algumas delas são:
 - Grafico linha;
 - Gupo de botões;
 - Template de login;
+- Icons 
 
 - Automatizar processo de compactação e seleção dos módulos;
 - Geração template/códigox Arduino automático.
