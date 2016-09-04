@@ -1,10 +1,10 @@
 ## IoTStyle
 
-Iot Style é um simles framework, responsivo específico para dispositivos embarcados. É baseado no [Skeleton](http://getskeleton.com)
+Iot Style é um simles framework, responsivo específico para dispositivos embarcados. Baseado no framework [Skeleton](http://getskeleton.com)
 
 ##Objetivo
 
-Ser um framewor WEB extremamente leve e modularizado.
+Ser um framework WEB extremamente leve e modularizado para ESP8622.
 
 ##Exemplo
 
