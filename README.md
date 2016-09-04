@@ -108,6 +108,7 @@ Este é apenas o inicio, existe muita coisa a se fazer. Algumas delas são:
 
 Se tiver interesse de ajudar está idéia, toda ajuda será bem vinda.
 
+Chat para discução iotbr.herokuapp.com Slack.
 
 ## Licença
 
