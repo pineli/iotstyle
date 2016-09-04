@@ -1,10 +1,10 @@
 ## IoTStyle
 
-Iot Style é um simles framework, responsivo específico para dispositivos embarcados. Baseado no framework [Skeleton](http://getskeleton.com)
+Iot Style é uma iniciativa de criar um simples framework CSS, responsivo, específico para dispositivos embarcados. Com foco no ESP8622. O projeto é baseado no framework base [Skeleton](http://getskeleton.com).
 
 ##Objetivo
 
-Ser um framework WEB extremamente leve e modularizado para ESP8622.
+Ser um framework WEB extremamente leve e modularizado para ESP8622. Que atenda a maioria dos elementos graficos/web para controle apresentação de informações embarcadas em um webserver. 
 
 ##Exemplo
 
@@ -71,6 +71,14 @@ void loop()
 
 ```
 
+## Ferramentas
+
+Na compilação do framwork será utilizado
+
+- NodeJS
+- Gulp
+
+
 ## ToDo (Fazer)
 
 Este é apenas o inicio, existe muita coisa a se fazer. Algumas delas são:
@@ -80,9 +88,11 @@ Este é apenas o inicio, existe muita coisa a se fazer. Algumas delas são:
 - Gauges;
 - Grafico linha;
 - Gupo de botões;
+- Template de login;
 
 - Automatizar processo de compactação e seleção dos módulos;
-- Geração template Arduino automático.
+- Geração template/códigox Arduino automático.
+
 
 Se tiver interesse de ajudar está idéia, toda ajuda será bem vinda.
 
