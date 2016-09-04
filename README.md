@@ -79,6 +79,15 @@ Na compilação do framwork será utilizado
 - Gulp
 
 
+## Resultados
+
+Página sem estilo, com HTML puro.
+![](/content/images/2016/09/esp-2-1.png)
+
+Página com estilo. Bem mais apresentável.
+![](/content/images/2016/09/esp-1.png)
+
+
 ## ToDo (Fazer)
 
 Este é apenas o inicio, existe muita coisa a se fazer. Algumas delas são:
