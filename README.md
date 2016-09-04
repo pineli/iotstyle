@@ -82,10 +82,10 @@ Na compilação do framwork será utilizado
 ## Resultados
 
 Página sem estilo, com HTML puro.
-![](/content/images/2016/09/esp-2-1.png)
+![](https://github.com/pineli/iotstyle/blob/master/dosc/esp-html.png)
 
 Página com estilo. Bem mais apresentável.
-![](/content/images/2016/09/esp-1.png)
+![](https://github.com/pineli/iotstyle/blob/master/dosc/esp-iotstyle.png)
 
 
 ## ToDo (Fazer)
